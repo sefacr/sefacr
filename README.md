@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sefa ACAR!</h1>
 <h3 align="center">
-iOS Developer | Swift & UIKit Enthusiast | Open Source Contributor | Passionate about Pet Tech & Clean Architecture
+iOS Developer | Swift & UIKit Enthusiast | Open Source Contributor | Passionate about Clean Architecture
 </h3>
 
 <p align="center">
