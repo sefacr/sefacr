@@ -8,7 +8,7 @@ As an iOS developer with a passion for building scalable and user-friendly mobil
 </p>
 
 <p align="center">
-With 2 years of hands-on experience, I specialize in creating modular, performance-optimized apps using Swift and UIKit, while also exploring the modern capabilities of SwiftUI. I focus on clean architecture, reusable components, and maintainable code with an emphasis on unit testing and performance.
+With 3 years of hands-on experience, I specialize in creating modular, performance-optimized apps using Swift and UIKit, while also exploring the modern capabilities of SwiftUI. I focus on clean architecture, reusable components, and maintainable code with an emphasis on unit testing and performance.
 
 I'm an active contributor to open-source iOS projects through platforms like <strong>iOS Roadmap</strong>, and I regularly engage with developer communities such as <strong>iCommunity</strong> to stay up-to-date and share knowledge.
 
